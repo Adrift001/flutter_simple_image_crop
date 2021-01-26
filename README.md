@@ -26,6 +26,7 @@ Add `simple_image_crop` [![simple_image_crop](https://img.shields.io/pub/v/simpl
 ```dart
 final imgCropKey = GlobalKey<ImgCropState>();
 
+
 Widget _buildCropImage() {
   return Container(
       color: Colors.black,
